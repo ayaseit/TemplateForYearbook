@@ -16,7 +16,7 @@ body {
 }
 
 #speakerbox {
-  width: 600px;
+  width: 36%;
   margin: 0 auto;
   padding: 1em;
   padding-bottom: 28em;
@@ -25,13 +25,13 @@ body {
 }
 
 #speakerbox img{
-  width: 576px;
+  width: 95%;
   border-radius: 20px;
 }
 
 
 #bottom {
-  width: 600px;
+  width: 36%;
   margin: 9px 46%;
 
 }
@@ -40,7 +40,6 @@ body {
   background-color: gray;
   border-radius: 10px;
   font-size: 1em;
-  
 }
 
 #bottom a#prev_btn, #bottom a#next_btn {
