@@ -69,6 +69,7 @@ a {
 }
 
 .footer {
+width:100%;
 margin-top: 10em;
 padding-top: 2em;
 background-color: rgba(129, 126, 128, 0.4);
