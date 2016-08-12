@@ -1,0 +1,75 @@
+body {
+  padding-top: 120px; 
+/*background-image: url("../images/jumboimage.jpg");
+background-repeat: no-repeat;*/
+}
+
+a {
+  color: #313252;
+}
+/* Overwirting bootstrap below */
+.navbar-default {
+  /*background-color: #31305f;*/
+  background: linear-gradient(90deg, #31305f, #17162c);
+  border-color: #31305f;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.navbar-default .navbar-brand {
+    color: rgb(245, 245, 245);
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #e2dcdc;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: rgb(245, 245, 245);
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #e2dcdc;
+  background-color: transparent;
+}
+
+.navbar-brand {
+  font-size: 4em;
+  font-weight: bold;
+  font-family: "Permanent Marker";
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #313252;
+    border-color: #2e6da4;
+}
+/*End of Bootstrap customization*/
+
+.nv {
+  font-size: 1.3em;
+}
+
+.front img {
+  width: 550px;
+}
+
+.features .glyphicon {
+  font-size: 32px;
+}
+
+.features {
+  margin-top: 5em;
+  margin-bottom: 10em;
+}
+
+.face img {
+  border-radius: 50%;
+  /*width: 200px;*/
+}
+
+.footer {
+margin-top: 10em;
+padding-top: 2em;
+background-color: rgba(129, 126, 128, 0.4);
+}

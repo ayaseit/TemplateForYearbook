@@ -1,0 +1,83 @@
+{ "speakers"  :[
+  { "name" : "Thomas A.Edison",
+    "img" : "../images/img_boat.jpg",
+    "quote" : "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
+  },
+  {"name": "Confucius",
+    "img": "../images/img_whale.jpg",
+    "quote" : "Our greatest glory is not in never falling, but in rising every time we fall."
+  },
+  {"name": "Lucas Grabeel",
+    "img": "../images/img_mankid.jpg",
+    "quote" : "The greatest thing about where my life is right now is it's very relaxed and chill. I'm just hanging out, being myself and doing my work."
+  },
+  {"name":"Norman Cousins",
+    "img": "../images/img_mankid1.jpg",
+    "quote" : "Death is not the greatest loss in life. The greatest loss is what dies inside us while we live."
+  },
+  {"name": "Denis Waitley",
+    "img": "../images/img_family.jpg",
+    "quote" : "The greatest gifts you can give your children are the roots of responsibility and the wings of independence."
+  },
+  {"name":"Jim Valvano",
+    "img":"../images/img_mankid.jpg",
+    "quote" : "My father gave me the greatest gift anyone could give another person, he believed in me."
+  },
+  {"name":"Sai Baba",
+    "img":"../images/img_nature.jpg",
+    "quote" : "Love one another and help others to rise to the higher levels, simply by pouring out love. Love is infectious and the greatest healing energy."
+  },
+  {"name":"Aristotle",
+    "img":"../images/img_boat1.jpg",
+    "quote" : "You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."
+  },
+  {"name":"Henry Ford",
+    "img":"../images/img_build.jpg",
+    "quote" : "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young."
+  },
+  {"name":"Joyce Meyer",
+    "img":"../images/img_family.jpg",
+    "quote" : "I believe that the greatest gift you can give your family and the world is a healthy you."
+  },
+  {"name":"Andrew Jackson",
+    "img":"../images/img_whale.jpg",
+    "quote" : "I've got big shoes to fill. This is my chance to do something. I have to seize the moment."
+  },
+  {"name":"Thomas Hood",
+    "img":"../images/img_nature.jpg",
+    "quote" : "Frost is the greatest artist in our clime - he paints in nature and describes in rime."
+  },
+  {"name":"Abraham Lincoln",
+    "img":"../images/img_build.jpg",
+    "quote" : "America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves."
+  },
+  {"name":"John Adams",
+    "img":"../images/img_mankid.jpg",
+    "quote" : "I must study politics and war that my sons may have liberty to study mathematics and philosophy."
+  },
+  {"name":"Jimmy Carter",
+    "img":"../images/img_family.jpg",
+    "quote" : "We become not a melting pot but a beautiful mosaic. Different people, different beliefs, different yearnings, different hopes, different dreams."
+  },
+  {"name":"Thomas Jefferson",
+    "img":"../images/img_boat.jpg",
+    "quote" : "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude."
+  },
+  {"name":"Woodrow Wilson",
+    "img":"../images/img_fall.jpg",
+    "quote" : "The history of liberty is a history of resistance."
+  },
+  {"name":"George Washington",
+    "img":"../images/img_whale.jpg",
+    "quote" : "My first wish is to see this plague of mankind, war, banished from the earth."
+  },
+  {"name":"Theodore Roosevelt",
+    "img":"../images/img_nature.jpg",
+    "quote" : "If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."
+  },
+  {"name":"Franklin Roosvelt",
+    "img":"../images/img_boat1.jpg",
+    "quote" : "There are many ways of going forward, but only one way of standing still."
+  }
+]
+}

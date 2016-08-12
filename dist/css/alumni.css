@@ -1,0 +1,49 @@
+body {
+  background-color: #f5f5f5;
+}
+.speaker {
+  text-align: center;
+}
+
+.speaker h3{
+  color: navy;
+  font-weight: bold;
+}
+
+.speaker p{
+  font-size: 2em;
+  font-family: "Courgette";
+}
+
+#speakerbox {
+  width: 600px;
+  margin: 0 auto;
+  padding: 1em;
+  padding-bottom: 28em;
+  background-color: #dbdbdb;
+  border-radius: 20px;
+}
+
+#speakerbox img{
+  width: 576px;
+  border-radius: 20px;
+}
+
+
+#bottom {
+  width: 600px;
+  margin: 9px 46%;
+
+}
+#bottom #prev_btn, #bottom #next_btn {
+  padding: 0.6em;
+  background-color: gray;
+  border-radius: 10px;
+  font-size: 1em;
+  
+}
+
+#bottom a#prev_btn, #bottom a#next_btn {
+  text-decoration: none;
+  color: #fff;
+}
